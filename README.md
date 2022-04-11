@@ -8,3 +8,5 @@ Real Views:
 
 ### Hi,
 I code some things sometimes I dont know why you are on my profile becasue none of it is effective or useful to people other than me.
+
+![](https://hit.yhype.me/github/profile?user_id=79072303)
