@@ -9,4 +9,6 @@ Real Views:
 ### Hi,
 I code some things sometimes I dont know why you are on my profile becasue none of it is effective or useful to people other than me.
 
+### Other notes,
+Monero: 48TfD9HBT6pDfJDJn4oqaKBJ5U7ojknVrDX7KkhUL6ew7mobfHZkbPZZohMeDU2x5HfPfTQVLnwoFQgS3qAifbXmRempJbA
 ![](https://hit.yhype.me/github/profile?user_id=79072303)
