@@ -1,8 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:2cc973,100:a32da8&height=300&section=header&text=Hi,%20I'm%20Isaac&fontSize=70)
+<br>
+## I can code in:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNecrownyx%2FNecrownyx&count_bg=%2300AEFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views+Today+%2F+All+Time&edge_flat=true)](https://hits.seeyoufarm.com)
 
-[![Necrownyx's GitHub stats](https://github-readme-stats.vercel.app/api?username=necrownyx&count_private=true&include_all_commits=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi,
 I code some things sometimes I dont know why you are on my profile becasue none of it is effective or useful to people other than me.
