@@ -7,11 +7,10 @@
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+## Cool image
+![Image](https://source.unsplash.com/900x300/?abstract,dark)
 
-
-### Hi,
-I code some things sometimes I dont know why you are on my profile becasue none of it is effective or useful to people other than me.
-
-### Other notes,
-Monero: 48TfD9HBT6pDfJDJn4oqaKBJ5U7ojknVrDX7KkhUL6ew7mobfHZkbPZZohMeDU2x5HfPfTQVLnwoFQgS3qAifbXmRempJbA
-![](https://hit.yhype.me/github/profile?user_id=79072303)
+## How to reach me:
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)![Necrownyx](https://dcbadge.vercel.app/api/shield/745518359696900106)
+<br>
+![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white) : Necrownyx <br> **I dont steam often*
